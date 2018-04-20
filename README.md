@@ -4,7 +4,7 @@ Mise en place de l'algorithme des fourmis dans le cadre de la recherche du plsu 
 ## Structure
 Les pubs sont stockés dans une liste sous la forme d'un tuple (easting, northing)
 
-##Fonction de fitness
+## Fonction de fitness
 Calcul de la distance entre deux pubs en utilisant le théoréme de pythagore avec easting et northing
 
 ## Pré-requis
